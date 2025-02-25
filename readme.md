@@ -60,6 +60,6 @@ This project is open-source and available under the MIT License.
 ---
 ### 🔗 Connect with Me
 💬 Feel free to reach out if you have suggestions or improvements!
-📧 Email: your.email@example.com
-GitHub: [Your GitHub Profile](https://github.com/your-username/)
+📧 Email: hardattmangrola55@gmail.com
+GitHub: [hardatt](https://github.com/hardattmangrola)
 
